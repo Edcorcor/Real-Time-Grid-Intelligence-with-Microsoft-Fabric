@@ -113,6 +113,10 @@ Note that this diagram represents a hypothetical real-world solution. This solut
 3. Upload and open the **Solution Installer** notebook
 4. Click **Run all** to execute the deployment
 
+> For the Rayfin BaaS deployment in this repository, the installer is pre-configured to validate and deploy to:
+> - **Tenant ID**: `05209442-30af-4e95-ade0-93a20618fc5f`
+> - **Workspace Name**: `AAARealtimeBaaS`
+
 The installer will:
 - ✅ Install required Python packages
 - ✅ Download solution files from GitHub
